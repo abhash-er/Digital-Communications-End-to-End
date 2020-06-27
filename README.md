@@ -34,3 +34,20 @@ Runner Files:
  
 
 The outputs are detailed into report. Please check!
+
+
+ 
+### Acknowledgement
+[Adaptive Delta Modulation Techniques](https://research.ijcaonline.org/icedsp/number2/icedsp1016.pdf)
+```
+Niranjan U
+Dept. of E&C
+BMS college of Engineering
+Bangalore-19
+
+M.N.Suma
+Dept. of E&C
+BMS college of Engineering
+Bangalore-19
+```
+
