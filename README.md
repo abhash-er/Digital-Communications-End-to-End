@@ -4,7 +4,7 @@ This is the MATLAB implementation of Adaptive Delta Modulation with Duobinary En
 
 To  see the detailed analysis of the code, see [Report](./report.pdf)
  
-See the [Published Code](./Publish.pdf) for compact view.
+See the [Published Code](./Pulblish.pdf) for compact view.
 <hr>
 
 ### Introduction to Communication Model
